@@ -41,11 +41,16 @@ In this section I was able to clean the data by:
 
 ![Pic 2](https://github.com/mpournaras/Cryptocurrencies_Analysis/blob/main/Images/clean_df.PNG)
 
-### K-means Clustering Algorithm, Elbow Curve:   
-![Pic 3](https://github.com/mpournaras/Cryptocurrencies_Analysis/blob/main/Images/elbow_curve.PNG)
+### Deliverable 2:
 
-### Applying the Principal Component Analysis:    
-![Pic 4](https://github.com/mpournaras/Cryptocurrencies_Analysis/blob/main/Images/PCA_df.PNG)
+Using my knowledge of how to apply the Principal Component Analysis (PCA) algorithm, I reduced the dimensions of the X DataFrame to three principal components and placed these dimensions in a new DataFrame.
+
+**Applying the Principal Component Analysis:**
+
+![Pic 3](https://github.com/mpournaras/Cryptocurrencies_Analysis/blob/main/Images/PCA_df.PNG)
+
+### K-means Clustering Algorithm, Elbow Curve:   
+![Pic 4](https://github.com/mpournaras/Cryptocurrencies_Analysis/blob/main/Images/elbow_curve.PNG)
 
 ### 3D Scatterplot with Clusters, Visualizing Tradable Cryptocurrencies:      
 ![Pic 5](https://github.com/mpournaras/Cryptocurrencies_Analysis/blob/main/Images/3D_model.png)
