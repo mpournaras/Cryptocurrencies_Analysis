@@ -45,11 +45,16 @@ In this section I was able to clean the data by:
 
 Using my knowledge of how to apply the Principal Component Analysis (PCA) algorithm, I reduced the dimensions of the X DataFrame to three principal components and placed these dimensions in a new DataFrame.
 
+### Deliverable 3:
+
+Using my knowledge of the K-means algorithm, I created an elbow curve using hvPlot to find the best value for K from the pcs_df DataFrame created in Deliverable 2. Then, I ran the K-means algorithm to predict the K clusters for the cryptocurrencies’ data.
+
 **Applying the Principal Component Analysis:**
 
 ![Pic 3](https://github.com/mpournaras/Cryptocurrencies_Analysis/blob/main/Images/PCA_df.PNG)
 
-### K-means Clustering Algorithm, Elbow Curve:   
+**K-means Clustering Algorithm, Elbow Curve:**
+
 ![Pic 4](https://github.com/mpournaras/Cryptocurrencies_Analysis/blob/main/Images/elbow_curve.PNG)
 
 ### 3D Scatterplot with Clusters, Visualizing Tradable Cryptocurrencies:      
