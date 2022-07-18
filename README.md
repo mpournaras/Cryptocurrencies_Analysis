@@ -1,7 +1,7 @@
 # Cryptocurrency Analysis Challenge:
 Unsupervised Machine Learning and Cryptocurrencies
 
-![Splash](https://github.com/mpournaras/Cryptocurrencies_Analysis/blob/main/Images/splash.PNG)
+![Splash](https://github.com/mpournaras/Cryptocurrencies_Analysis/blob/main/Images/splash.jpg)
 
 ## Purpose: 
 A client asked for a list of tradable cryptocurrencies and wants to be able to pick them from a classification system.    
