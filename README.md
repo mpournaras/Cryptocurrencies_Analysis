@@ -12,25 +12,25 @@ A client asked for a list of tradable cryptocurrencies and wants to be able to p
 
 ## Results:
 ### The imported DataFrame before cleaning, 1252 rows of data:   
-![Pic 1](https://github.com/Baylex/Cryptocurrencies/blob/main/Images/1_dataframe_before_cleaning.PNG)
+![Pic 1](https://github.com/mpournaras/Cryptocurrencies_Analysis/blob/main/Images/initial_df.PNG)
 
 ### The list of tradable cryptocurrencies after cleaning, 532 rows of data:   
-![Pic 2](https://github.com/Baylex/Cryptocurrencies/blob/main/Images/2_dataframe_after_cleaning.PNG)
+![Pic 2](https://github.com/mpournaras/Cryptocurrencies_Analysis/blob/main/Images/clean_df.PNG)
 
 ### K-means Clustering Algorithm, Elbow Curve:   
-![Pic 3](https://github.com/Baylex/Cryptocurrencies/blob/main/Images/3_elbow_curve.PNG)
+![Pic 3](https://github.com/mpournaras/Cryptocurrencies_Analysis/blob/main/Images/elbow_curve.PNG)
 
 ### Applying the Principal Component Analysis:    
-![Pic 4](https://github.com/Baylex/Cryptocurrencies/blob/main/Images/4_dataframe_after_PCA.PNG)
+![Pic 4](https://github.com/mpournaras/Cryptocurrencies_Analysis/blob/main/Images/PCA_df.PNG)
 
 ### 3D Scatterplot with Clusters, Visualizing Tradable Cryptocurrencies:      
-![Pic 5](https://github.com/Baylex/Cryptocurrencies/blob/main/Images/5_3D_model.png)
+![Pic 5](https://github.com/mpournaras/Cryptocurrencies_Analysis/blob/main/Images/3D_model.png)
 
 ### Number of Tradable Cryptocurrencies:    
-![Pic 6](https://github.com/Baylex/Cryptocurrencies/blob/main/Images/6_number_of_tradable_cryptos.PNG)
+![Pic 6](https://github.com/mpournaras/Cryptocurrencies_Analysis/blob/main/Images/tradable_crypto_count.PNG)
 
 ### DataFrame to plot results:    
-![Pic 7](https://github.com/Baylex/Cryptocurrencies/blob/main/Images/7_dataframe_for_Cryptos.PNG)
+![Pic 7](https://github.com/mpournaras/Cryptocurrencies_Analysis/blob/main/Images/crypto_df.PNG)
 
 ### Tradable Cryptocurrencies:    
-![Pic 8](https://github.com/Baylex/Cryptocurrencies/blob/main/Images/8_tradable_crypto_results.png)
+![Pic 8](https://github.com/mpournaras/Cryptocurrencies_Analysis/blob/main/Images/tradable_crypto_results.png)
